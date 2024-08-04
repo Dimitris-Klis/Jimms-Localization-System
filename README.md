@@ -18,3 +18,17 @@ As you can see, each key corresponds to the text below it. You can name the keys
 Also, the first two lines shouldn't be changed. You can only change the language name.
 
 You can add more than 1 empty line between you key-value pairs to increase readability!
+Like this:
+```
+Language: English
+
+KEY_1
+Insert description here.
+
+
+
+
+
+KEY_2
+A very spacious description
+```
