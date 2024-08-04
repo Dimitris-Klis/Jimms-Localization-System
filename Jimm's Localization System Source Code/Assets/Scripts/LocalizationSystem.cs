@@ -115,7 +115,7 @@ public class LocalizationSystem : MonoBehaviour
     }
     void UpdateLocalizers()
     {
-        foreach(TMPLocalizer loc in FindObjectsOfType<TMPLocalizer>())
+        foreach(TMPLocalizer loc in FindObjectsOfType<TMPLocalizer>(true))
         {
             loc.UpdateText();
         }
