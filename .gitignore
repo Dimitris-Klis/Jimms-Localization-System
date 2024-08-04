@@ -1,0 +1,13 @@
+#Unity files
+Jimm's Localization System Source Code/Library/
+Jimm's Localization System Source Code/Logs/
+Jimm's Localization System Source Code/Temp/
+Jimm's Localization System Source Code/UserSettings/
+
+#Visual Studio folders
+Jimm's Achievement System Source Code/.vs/
+
+#Visual Studio files
+Jimm's Localization System Source Code/.vsconfig
+Jimm's Localization System Source Code/*.sln
+Jimm's Localization System Source Code/*.csproj
