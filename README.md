@@ -16,4 +16,5 @@ Insert yet another description here.
 ```
 As you can see, each key corresponds to the text below it. You can name the keys anything you want. Make sure that the keys are the same in all your txt files!
 Also, the first two lines shouldn't be changed. You can only change the language name.
+
 You can add more than 1 empty line between you key-value pairs to increase readability!
