@@ -3,7 +3,7 @@
   "WorkspaceRootPath": "F:\\Unity Projects\\Jimm\u0027s Localization System\\Jimm\u0027s Localization System Source Code\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{01FC17C1-F2A0-1E37-D6BE-CAC991952E43}|Assembly-CSharp.csproj|F:\\Unity Projects\\Jimm\u0027s Localization System\\Jimm\u0027s Localization System Source Code\\assets\\scripts\\localizationsystem.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{01FC17C1-F2A0-1E37-D6BE-CAC991952E43}|Assembly-CSharp.csproj|f:\\unity projects\\jimm\u0027s localization system\\jimm\u0027s localization system source code\\assets\\scripts\\localizationsystem.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{01FC17C1-F2A0-1E37-D6BE-CAC991952E43}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\localizationsystem.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
@@ -45,8 +45,7 @@
               "RelativeToolTip": "..\\README.md",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAAAcAAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001818|",
-              "WhenOpened": "2024-08-04T11:23:58.65Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-08-04T11:23:58.65Z"
             },
             {
               "$type": "Document",
@@ -80,7 +79,7 @@
               "RelativeDocumentMoniker": "Assets\\Scripts\\TMPLocalizer.cs",
               "ToolTip": "F:\\Unity Projects\\Jimm\u0027s Localization System\\Jimm\u0027s Localization System Source Code\\Assets\\Scripts\\TMPLocalizer.cs",
               "RelativeToolTip": "Assets\\Scripts\\TMPLocalizer.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAkAAAACAAAA",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAkAAAAEAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-08-04T10:55:55.826Z",
               "EditorCaption": ""
@@ -93,7 +92,7 @@
               "RelativeDocumentMoniker": "Assets\\Scripts\\LocalizationSystem.cs",
               "ToolTip": "F:\\Unity Projects\\Jimm\u0027s Localization System\\Jimm\u0027s Localization System Source Code\\Assets\\Scripts\\LocalizationSystem.cs",
               "RelativeToolTip": "Assets\\Scripts\\LocalizationSystem.cs",
-              "ViewState": "AQIAAFYAAAAAAAAAAAAwwHIAAAAFAAAA",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAADEAAAAMAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-08-04T07:57:10.357Z",
               "EditorCaption": ""

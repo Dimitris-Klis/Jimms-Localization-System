@@ -7,7 +7,7 @@ public class TMPLocalizer : MonoBehaviour
 {
     public TMP_Text TMP_Text;
     public string key;
-t 
+    
     // Start is called before the first frame update
     void Start()
     {
