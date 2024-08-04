@@ -1,0 +1,10 @@
+Language Name: Pirate Speech
+
+[FoxDog]
+YARG! The quick brown fox be jumpin' over the seven seas.
+
+[Localization]
+This be a great way o' testin the capabilities of me writin' system.
+
+[FinalTest]
+We be checkin' if it be workin' for the last time.

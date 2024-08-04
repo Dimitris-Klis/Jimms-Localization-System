@@ -1,0 +1,11 @@
+Language Name: English
+
+[FoxDog]
+The quick brown fox jumps over 
+the lazy dog.
+
+[Localization]
+This is a great way to test the capabilities of my localization system.
+
+[FinalTest]
+The final confirmation that it works.
