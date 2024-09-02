@@ -21,7 +21,7 @@ As you can see, each key corresponds to the text below it.
 
 - The first two lines shouldn't be changed. You can only change the language name.
 
-- Each txt file corresponds to a different language
+- Each txt file corresponds to a different language.
 
 You can even add more than 1 empty line between you key-value pairs to increase readability!
 Like this:
