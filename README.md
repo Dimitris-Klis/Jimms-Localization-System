@@ -26,7 +26,7 @@ As you can see, each key corresponds to the text below it.
 You can even add more than 1 empty line between you key-value pairs to increase readability!
 Like this:
 ```
-Language: English
+Language Name: English
 
 KEY_1
 Insert description here.
