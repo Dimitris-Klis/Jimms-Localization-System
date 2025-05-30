@@ -7,7 +7,7 @@ Here's how it looks in unity:
 
 And here's a simple guide to correctly setting up the localization:
 ```
-Language: English
+Language Name: English
 
 KEY_1
 Insert description here.
